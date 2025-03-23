@@ -1,8 +1,0 @@
-com/flowparser/writer/StatisticsWriter.class
-com/flowparser/processor/FlowLogProcessor.class
-com/flowparser/model/Statistics.class
-com/flowparser/util/SampleDataGenerator.class
-com/flowparser/model/FlowLogEntry.class
-com/flowparser/parser/FlowLogParser.class
-com/flowparser/parser/LookupTableParser.class
-com/flowparser/Main.class
